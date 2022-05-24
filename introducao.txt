@@ -1,0 +1,1 @@
+Git e github sao usados para programadores poderem compartilhar seus codigos.
